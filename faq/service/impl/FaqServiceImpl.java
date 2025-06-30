@@ -17,7 +17,7 @@ import egovframework.example.faq.service.FaqService;
  */
 @Service
 public class FaqServiceImpl implements FaqService {
-//	Mapper 가져오기
+
 	@Autowired
 	private FaqMapper faqMapper;
 	
