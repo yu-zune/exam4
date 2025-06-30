@@ -21,5 +21,5 @@ public class A {
 //		V View    :  화면 출력 담당 JSP HTML CSS JQuery
 //		C Controller  : URL과 JSP 페이지를 연결, 서비스 호출
     
-
+// 요약 컨트롤러가 요청을 받아 서비스를 호출하고, 그 결과를 뷰(JSP)로 전달하는 구조.
 }
